@@ -3,7 +3,7 @@
 <div class="description">
 <caption><h2>About this repository</h2></caption>
 <p> In this repository I commit the practiced java programs
-    which involves mostly the data structures like Conditions,Loops,OOPs(Inheritance,) </p>
+    which involves mostly the data structures like Conditions,Loops,OOPs(Inheritance,etc)</p>
 </div>
 <div class="Info">
   <caption><h3>Information on the file types</h3></caption>

@@ -4,7 +4,7 @@
 <caption><h2>About this repository</h2></caption>
 <p> In this repository I commit the practiced java programs
     which involves mostly the data structures like Conditions,Loops,OOPs(Inheritance,) </p>
-
+</div>
 <div class="Info">
   <caption><h3>Information on the file types</h3></caption>
   <li><bold>(.java)</bold>: The File class from the java.io package allows us to work with files. To use the File class,

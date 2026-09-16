@@ -5,7 +5,7 @@
     which involves mostly the data structures like Conditions,Loops,OOPs(Inheritance,) </p>
 
 <div class="Info">
-  <caption >Information on the file types</caption>
+  <caption><h3>Information on the file types</h3></caption>
   <li><bold>(.java)</bold>: The File class from the java.io package allows us to work with files. To use the File class,
       you need to create an object of the class and specify the filename or directory name</li>
   <li>,bold>(.class)</bold>: A (.class) file in Java is a compiled version of a .java source file. It contains Java bytecode, which is an intermediate, 
